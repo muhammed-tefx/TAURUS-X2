@@ -15,8 +15,8 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/I-AM-MUHAMMED/TAURUS-X2)
-# ```TAURUS-BUG-BOT```
+
+#### ```TAURUS-BUG-BOT```
 <p align="center">
 <a href="https://github.com/I-AM-MUHAMMED/followers"><img title="Followers" src="https://img.shields.io/github/followers/I-AM-MUHAMMED?color=red&style=flat-square"></a>
 <a href="https://github.com/I-AM-MUHAMMED/TAURUS-X2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/I-AM-MUHAMMED/bug-bot?color=blue&style=flat-square"></a>
@@ -32,9 +32,20 @@
 
 -------
 
-## `SCAN QR`
+</a>
+</p>
+<div align="center">
+ <p align="center">
 
-[`Click Here`](https://replit.com/@muhammed-userbot/TAURUS-X3)
+**BUILDBACKS ALREADY ADDED**
+
+<br>
+   <a href="https://replit.com/@muhammed-userbot/TAURUS-X3"><img src="https://img.shields.io/badge/-SCAN the replit-black?style=for-the-badge&logo=replit&logoColor=white">
+   <br>
+<br>
+   <a href="https://heroku.com/deploy?template=https://github.com/I-AM-MUHAMMED/Taurus-x2"><img src="https://img.shields.io/badge/-DEPLOY on heroku-634988?style=for-the-badge&logo=heroku&logoColor=white">
+   <br>
+<br>
 
 ## `CHANGE SESSION`
 
@@ -45,15 +56,4 @@
 - CHANGE OWNER NUMBER [Here](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L4)
 - CHANGE OWNER NAME [Here](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L14)
 - CHANGE BOT NAME [Here](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L15)
-
-## `CHANGE DYNO`
-
-Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
-
-----------
-
-
-----------
-
-
 
