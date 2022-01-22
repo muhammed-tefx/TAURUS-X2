@@ -42,7 +42,7 @@
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L4)
-- CHANGE OWNER NAME [Here](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L14)
-- CHANGE BOT NAME [Here](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L15)
+- [`CHANGE OWNER NUMBER`](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L4)
+- [`CHANGE OWNER NAME`](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L14)
+- [`CHANGE BOT NAME`](https://github.com/I-AM-MUHAMMED/TAURUS-X2/blob/main/settings.json#L15)
 
